@@ -8,5 +8,5 @@ It is not just a model, it is deployed into a Web API using Flask
 
 After typing a sentence 
 
-
+![](Capture.JPG)
 
